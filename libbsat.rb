@@ -13,7 +13,7 @@ class Libbsat < Formula
 
   test do
     (testpath/"test.c").write <<~'EOS'
-      /* Wait for stdin to become readable, then read and echo the first line. */
+      /* Schedule a timeout and confirm it fires */
 
       #include <stdio.h>
       #include <stdlib.h>

@@ -3,7 +3,7 @@ andrew-canaday/tap
 
 Taps for some of my projects.
 
-To use:
+## Usage
 
 ```bash
 brew tap andrew-canaday/tap
@@ -14,13 +14,13 @@ brew tap andrew-canaday/tap
 > Formulas without a bottle must be installed from source, e.g.:
 >
 > ```bash
-> brew install --build-from-source libbsata
+> brew install --build-from-source libbsat
 > ```
 
 ## Formulas
 
-| Name     | Description                                   | Bottled? | Formula                    | Repo                                                                 |
-| ----     | -----------                                   | -------- | -------                    | ----                                                                 |
-| libbsat  | Timeout management utility library for libev. | ❌       | [libbsat.rb](./libbsat.rb) | [andrew-canaday/libbsat](https://github.com/andrew-canadaylibbsat)   |
-| pomd4c   | *Trivial* C comment → MD utility              | ❌       | TODO                       | [andrew-canaday/pomd4c](https://github.com/andrew-canaday/pomd4c)    |
-| libyimmo | C Socket Framework (HTTP, WS) and WSGI Server | ❌       | TODO                       | [andrew-canaday/libyimmo](https://github.com/andrew-canadaylibyimmo) |
+| Name     | Description                                   | Bottled | Formula                    | Repo                                                                 |
+| ----     | -----------                                   | ------- | -------                    | ----                                                                 |
+| libbsat  | Timeout management utility library for libev. |   no    | [libbsat.rb](./libbsat.rb) | [andrew-canaday/libbsat](https://github.com/andrew-canadaylibbsat)   |
+| pomd4c   | *Trivial* C comment → MD utility              |   no    | TODO                       | [andrew-canaday/pomd4c](https://github.com/andrew-canaday/pomd4c)    |
+| libyimmo | C Socket Framework (HTTP, WS) and WSGI Server |   no    | TODO                       | [andrew-canaday/libyimmo](https://github.com/andrew-canadaylibyimmo) |

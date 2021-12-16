@@ -1,8 +1,8 @@
 class Libbsat < Formula
   desc "\"Be smart about timeouts\" libev timeout utility library."
   homepage "https://github.com/andrew-canaday/libbsat"
-  url "https://github.com/andrew-canaday/libbsat/releases/download/0.1.1/libbsat-0.1.1.tar.gz"
-  sha256 "a0910987f577f66a9a56844cedaaca232883908644e3370cc1dbca92d8e0acec"
+  url "https://github.com/andrew-canaday/libbsat/releases/download/0.1.2/libbsat-0.1.2.tar.gz"
+  sha256 "ec23e3935de9f299d43840ae10071662397369645a9d71a82409374d4600abe1"
   license "MIT"
   depends_on "libev"
 

@@ -36,7 +36,7 @@ brew tap andrew-canaday/tap
 | Name     | Description                                   | Bottled | Formula                    | Repo                                                                 |
 | ----     | -----------                                   | ------- | -------                    | ----                                                                 |
 | libbsat  | Timeout management utility library for libev. |   no    | [libbsat.rb](./libbsat.rb) | [andrew-canaday/libbsat](https://github.com/andrew-canadaylibbsat)   |
-| pomd4c   | *Trivial* C comment → MD utility              |   no    | TODO                       | [andrew-canaday/pomd4c](https://github.com/andrew-canaday/pomd4c)    |
+| pomd4c   | *Trivial* C comment → MD utility              |   no    | [pomd4c.rb](./pomd4c.rb)   | [andrew-canaday/pomd4c](https://github.com/andrew-canaday/pomd4c)    |
 | libyimmo | C Socket Framework (HTTP, WS) and WSGI Server |   no    | TODO                       | [andrew-canaday/libyimmo](https://github.com/andrew-canadaylibyimmo) |
 
 
